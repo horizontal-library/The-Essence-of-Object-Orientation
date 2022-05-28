@@ -1,5 +1,5 @@
 # 객체지향의 사실과 오해 : 2022.05.28 ~ 
-<img src='http://image.yes24.com/momo/TopCate511/MidCate005/51040273.jpg' width="400"/>
+<img src='http://image.yes24.com/momo/TopCate511/MidCate005/51040273.jpg' width="200"/>
 
 
 
