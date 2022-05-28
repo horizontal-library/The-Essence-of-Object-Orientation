@@ -1,13 +1,12 @@
 # The-Essence-of-Object-Orientation (2022.05.28 ~ 2022.??.??)
 '객체지향의 사실과 오해 - 역할, 책임, 협력 관점에서 본 객체지향' 을 읽는 스터디
 
+<img src="https://user-images.githubusercontent.com/65459616/170829326-d954abf2-7a6d-425a-ac5a-ad4700294028.jpg" width="400"/>
 
-![20220528_231653](https://user-images.githubusercontent.com/65459616/170829326-d954abf2-7a6d-425a-ac5a-ad4700294028.jpg)
 
 
-# Objects
 
-<img src="http://image.yes24.com/goods/74219491/XL" width="400"/>
+
 
 ## 목차
 
