@@ -1,4 +1,4 @@
-# The-Essence-of-Object-Orientation (2022.05.28 ~ 2022.??.??)
+# 객체지향의 사실과 오해 2022.05.28 ~ 
 <img src="https://user-images.githubusercontent.com/65459616/170829326-d954abf2-7a6d-425a-ac5a-ad4700294028.jpg" width="400"/>
 
 
