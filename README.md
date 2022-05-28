@@ -1,5 +1,5 @@
 # 객체지향의 사실과 오해 : 2022.05.28 ~ 
-<img src="https://user-images.githubusercontent.com/65459616/170829326-d954abf2-7a6d-425a-ac5a-ad4700294028.jpg" width="400"/>
+<img src='https://user-images.githubusercontent.com/65459616/170833240-41e9e0ff-ec9e-4a33-9501-f43d1adda56f.png' width="400"/>
 
 
 
